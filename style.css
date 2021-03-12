@@ -1,0 +1,18 @@
+h1{
+  font-family: 'Faster One', cursive;
+  font-size: 4vw;
+  color: #001D9E;
+}
+
+body{
+  background-color: #EBB413;
+}
+
+.center{
+  text-align: center;
+}
+
+.redText{
+  color: #9C2217;
+  font-family: 'Bangers', cursive;
+}
